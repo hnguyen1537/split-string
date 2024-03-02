@@ -1,8 +1,8 @@
 ## split-string
 
-FIRST NAME:
+FIRST NAME: Trinh 
 
-LAST NAME:
+LAST NAME: Nguyen
 
 Go to `split-string.js` and finish the TODO.
 
