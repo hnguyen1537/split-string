@@ -12,13 +12,6 @@ const str = prompt('Enter a string:');
 
 let result = str.split(" ");
 
-// when str = "Hello World!"
-// when str = ""
-//when str = "Welcome to CIS 171!"
-//when str=" "
-
-
-
 
 // DO NOT CHANGE THE LINES BELOW.
 console.log(result);
